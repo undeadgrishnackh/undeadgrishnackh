@@ -8,7 +8,7 @@ Welcome to my GitHub space! I'm Michele Brissoni, a passionate advocate for craf
 
 - **OKR Guru:** I'm a passionate advocate for DevOps and Agile, and I've been helping organizations achieve excellence through OKR.
 
-- **Founder of the [SW Craftsmanship Dojo®](https://swcraftsmanshipdojo.com/):** I pioneered a transformative platform that accelerates upskill/reskill, fosters technical excellence, and empowers teams to become elite performers.
+- **Founder of the [SW Craftsmanship Dojo®](https://swcraftsmanshipdojo.com/):** I pioneered a transformative platform, rooted in behavioral engineering, that accelerates upskill/reskill, fosters technical excellence, and empowers teams to become elite performers.
   ![The Dojo in a nutshell](./imgages/SW_Craftsmanship_Logo.png)
 
 ## 📘 What Sets Me Apart
