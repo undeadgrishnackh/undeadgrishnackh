@@ -1,6 +1,8 @@
 # Michele Brissoni - Technical Lead - SW Craftsmanship Coach 🚀
+## [CEO of BriX Consulting - The forge of Unicorns 🦄](https://brix.consulting/)
 
-Welcome to my GitHub space! I'm Michele Brissoni, a passionate advocate for crafting high-performing teams and driving organizational excellence through OKR, Agile, DevOps, and SW Craftsmanship. Let's embark on a journey of evolution together!
+
+Welcome to my GitHub space! I'm Michele Brissoni, a passionate advocate for evolving high-performing teams and driving organizational excellence through OKR, Agile, DevOps, and SW Craftsmanship. Let's embark on a journey of evolution together!
 
 ## 💡 Who Am I?
 
@@ -24,10 +26,11 @@ I'm a passionate advocate for continuous learning and improvement, always lookin
 
 Whether you're a startup aiming for excellence or an established organization seeking transformative guidance, I'm here to collaborate. Let's build something amazing together! Reach out for consultations, coaching, or if you're looking for the right path to elite performance.
 
-Contact me on my service page on [LinkedIn](https://www.linkedin.com/services/page/8a8b18320293774816/)
+Contact me on my service page on [LinkedIn](https://www.linkedin.com/services/page/8a8b18320293774816/) or on [BriX Consulting Website](https://brix.consulting/).
 
 ## 📬 Get in Touch
 
+- 🦄 **Unicorns Ecosystem:** [BriX Consulting - The Forge of Unicorns](https://brix.consulting/) 
 - 💼 **Portfolio:** [michelebrissoni.com](https://undeadgrishnackh.netlify.app/)
 - 📇 **LinkedIn:** [michelebrissoni](https://www.linkedin.com/in/michelebrissoni)
 - 🥋 **The Dojo:** [SW Craftsmanship Dojo®](https://swcraftsmanshipdojo.com/)
