@@ -22,6 +22,14 @@ The wrong move? You’ll burn millions, trigger **disengagement and burnout**, a
 
 ---
 
+## 📬 Ready to evolve?
+Stop burning cash on generic transformations. Your competitors are already evolving.  
+**Forge Unicorns. Build your legacy.** 🚀
+
+📨 [👉 Contact us now!](https://brix.consulting/contact/)
+
+---
+
 ## 💪 What I Do (For You)
 
 ✅ **Inventor of the [SW Craftsmanship Dojo®](https://swcraftsmanshipdojo.com/):** A behavioral engineering platform transforming teams, crushing tech debt, and embedding elite performance.
@@ -31,16 +39,11 @@ The wrong move? You’ll burn millions, trigger **disengagement and burnout**, a
 ![The Unicorns' Ecosystem](./imgages/UnicornsEcosystemLogo1.jpeg)
 
 ✅ **Founder of [The Forge of Unicorns](https://www.linkedin.com/newsletters/the-forge-of-unicorns-7184097792242458624/):** Newsletter and podcast featuring **top investors, CXOs, and unicorn builders**.
-<a href="https://brix.consulting/forge-of-unicorns/">
-  <img src="./imgages/ForgeOfTheUnicornsPodcast.png" alt="The Forge of Unicorns Podcast" width="250"/>
-</a>
-
-
-## 📬 Ready to evolve?
-Stop burning cash on generic transformations. Your competitors are already evolving.  
-**Forge Unicorns. Build your legacy.** 🚀
-
-📨 [👉 Contact us now!](https://brix.consulting/contact/)
+<div align="center">
+  <a href="https://brix.consulting/forge-of-unicorns/">
+    <img src="./imgages/ForgeOfTheUnicornsPodcast.png" alt="The Forge of Unicorns Podcast" width="250"/>
+  </a>
+</div>
 
 ---
 
