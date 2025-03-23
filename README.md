@@ -33,10 +33,18 @@ Stop burning cash on generic transformations. Your competitors are already evolv
 ## 💪 What I Do (For You)
 
 ✅ **Inventor of the [SW Craftsmanship Dojo®](https://swcraftsmanshipdojo.com/):** A behavioral engineering platform transforming teams, crushing tech debt, and embedding elite performance.
-![The SW Craftsmanship Dojo®](./imgages/SW_Craftsmanship_Logo.png)
+<div align="center">
+  <a href="https://swcraftsmanshipdojo.com/">
+    <img src="./imgages/SW_Craftsmanship_Logo.png" alt="The SW Craftsmanship Dojo®" width="300"/>
+  </a>
+</div>
 
 ✅ **Creator of the [Unicorns' Ecosystem](https://brix.consulting/services/unicorns-ecosystem/):** Trusted by **IBM, NS, ZF, and top global PE/VCs** to turn IT from liability into an unstoppable competitive advantage.
-![The Unicorns' Ecosystem](./imgages/UnicornsEcosystemLogo1.jpeg)
+<div align="center">
+  <a href="https://brix.consulting/services/unicorns-ecosystem/">
+    <img src="./imgages/UnicornsEcosystemLogo1.jpeg" alt="The Unicorns' Ecosystem" width="300"/>
+  </a>
+</div>
 
 ✅ **Founder of [The Forge of Unicorns](https://www.linkedin.com/newsletters/the-forge-of-unicorns-7184097792242458624/):** Newsletter and podcast featuring **top investors, CXOs, and unicorn builders**.
 <div align="center">
@@ -64,7 +72,12 @@ I combine:
 - Refactoring of legacy software, Product portfolio modernization, real Agile & DevOps, and modern cloud-native architecture mastery
 
 ✅ **Result:** Your IT department becomes a **high-performing asset** — not a costly liability.
-![The Dojo in a nutshell](./imgages/DojoInANutshell.jpeg)
+<div align="center">
+  <a href="https://swcraftsmanshipdojo.com/">
+    <img src="./imgages/DojoInANutshell.jpeg" alt="The Dojo in a nutshell" width="400"/>
+  </a>
+</div>
+
 
 ---
 
