@@ -46,9 +46,9 @@ Stop burning cash on generic transformations. Your competitors are already evolv
   </a>
 </div>
 
-✅ **Founder of [The Forge of Unicorns](https://www.linkedin.com/newsletters/the-forge-of-unicorns-7184097792242458624/):** Newsletter and podcast featuring **top investors, CXOs, and unicorn builders**.
+✅ **Founder of [The Forge of Unicorns Newsletter](https://www.linkedin.com/newsletters/the-forge-of-unicorns-7184097792242458624/):** Newsletter and podcast featuring **top investors, CXOs, and unicorn builders**.
 <div align="center">
-  <a href="https://brix.consulting/forge-of-unicorns/">
+  <a href="https://www.linkedin.com/newsletters/the-forge-of-unicorns-7184097792242458624/">
     <img src="./imgages/ForgeOfTheUnicornsPodcast.png" alt="The Forge of Unicorns Podcast" width="250"/>
   </a>
 </div>
@@ -74,7 +74,7 @@ I combine:
 ✅ **Result:** Your IT department becomes a **high-performing asset** — not a costly liability.
 <div align="center">
   <a href="https://swcraftsmanshipdojo.com/">
-    <img src="./imgages/DojoInANutshell.jpeg" alt="The Dojo in a nutshell" width="600"/>
+    <img src="./imgages/DojoInANutshell.jpeg" alt="The Dojo in a nutshell" width="800"/>
   </a>
 </div>
 
