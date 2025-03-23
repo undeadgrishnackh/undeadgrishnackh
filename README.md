@@ -35,14 +35,14 @@ Stop burning cash on generic transformations. Your competitors are already evolv
 ✅ **Inventor of the [SW Craftsmanship Dojo®](https://swcraftsmanshipdojo.com/):** A behavioral engineering platform transforming teams, crushing tech debt, and embedding elite performance.
 <div align="center">
   <a href="https://swcraftsmanshipdojo.com/">
-    <img src="./imgages/SW_Craftsmanship_Logo.png" alt="The SW Craftsmanship Dojo®" width="300"/>
+    <img src="./imgages/SW_Craftsmanship_Logo.png" alt="The SW Craftsmanship Dojo®" width="500"/>
   </a>
 </div>
 
 ✅ **Creator of the [Unicorns' Ecosystem](https://brix.consulting/services/unicorns-ecosystem/):** Trusted by **IBM, NS, ZF, and top global PE/VCs** to turn IT from liability into an unstoppable competitive advantage.
 <div align="center">
   <a href="https://brix.consulting/services/unicorns-ecosystem/">
-    <img src="./imgages/UnicornsEcosystemLogo1.jpeg" alt="The Unicorns' Ecosystem" width="300"/>
+    <img src="./imgages/UnicornsEcosystemLogo1.jpeg" alt="The Unicorns' Ecosystem" width="500"/>
   </a>
 </div>
 
@@ -74,7 +74,7 @@ I combine:
 ✅ **Result:** Your IT department becomes a **high-performing asset** — not a costly liability.
 <div align="center">
   <a href="https://swcraftsmanshipdojo.com/">
-    <img src="./imgages/DojoInANutshell.jpeg" alt="The Dojo in a nutshell" width="400"/>
+    <img src="./imgages/DojoInANutshell.jpeg" alt="The Dojo in a nutshell" width="600"/>
   </a>
 </div>
 
