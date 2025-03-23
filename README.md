@@ -31,9 +31,21 @@ The wrong move? You’ll burn millions, trigger **disengagement and burnout**, a
 ![The Unicorns' Ecosystem](./imgages/UnicornsEcosystemLogo1.jpeg)
 
 ✅ **Founder of [The Forge of Unicorns](https://www.linkedin.com/newsletters/the-forge-of-unicorns-7184097792242458624/):** Newsletter and podcast featuring **top investors, CXOs, and unicorn builders**.
-![The Forge of Unicorns Podcast](./imgages/ForgeOfTheUnicornsPodcast.png)
+<a href="https://brix.consulting/forge-of-unicorns/">
+  <img src="./imgages/ForgeOfTheUnicornsPodcast.png" alt="The Forge of Unicorns Podcast" width="250"/>
+</a>
 
-✅ **Upcoming Book — _Stop Transforming, Start Evolving_**: The blueprint to rewire IT into a gold mine.
+
+## 📬 Ready to evolve?
+Stop burning cash on generic transformations. Your competitors are already evolving.  
+**Forge Unicorns. Build your legacy.** 🚀
+
+📨 [👉 Contact us now!](https://brix.consulting/contact/)
+
+---
+
+## 📖 Upcoming Book — *Stop Transforming, Start Evolving* 
+Revealing the blueprint to rewire IT into your company’s gold mine.
 
 ---
 
@@ -71,5 +83,5 @@ I combine:
 
 ---
 
-## 📬 Ready to evolve?
-Stop burning cash on generic transformations. **Forge Unicorns. Build legacy.** 🚀
+## 📬 Let’s connect
+[Contact us now](https://brix.consulting/contact/) and start evolving.
