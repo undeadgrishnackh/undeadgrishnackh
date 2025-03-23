@@ -92,7 +92,8 @@ I combine:
 ## 🔗 Connect with Me
 - 🦄 [BriX Consulting](https://brix.consulting/)
 - 🥋 [SW Craftsmanship Dojo®](https://swcraftsmanshipdojo.com/)
-- 🎙️ [The Forge of Unicorns](https://brix.consulting/forge-of-unicorns/)
+- 📰 [The Forge of Unicorns Newsletter](https://www.linkedin.com/newsletters/the-forge-of-unicorns-7184097792242458624/)
+- 🎧 [The Forge of Unicorns Podcast](https://open.spotify.com/show/4ea2u6FANsu8FT9eOybKr1)
 - 💻 [Portfolio](https://undeadgrishnackh.netlify.app/)
 - 📇 [LinkedIn](https://www.linkedin.com/in/michelebrissoni/)
 - 👨‍💻 [GitHub](https://github.com/undeadgrishnackh)
