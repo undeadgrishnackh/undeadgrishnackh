@@ -1,5 +1,5 @@
-# Michele Brissoni — Helping PE/VC & CTOs Forge High-Performing Unicorns 🦄🚀
-## [CEO @ BriX Consulting — The Forge of Unicorns](https://brix.consulting/)
+# Michele Brissoni — Helping CEOs and investors to Forge High-Performing SW-Organizations 🚀
+## [CEO @ BriX Consulting — The Forge of Unicorns](https://brix.consulting/) 🦄
 
 ## ⚠️ The Brutal Truth About Digital Investments
 
@@ -39,9 +39,9 @@ Stop burning cash on generic transformations. Your competitors are already evolv
   </a>
 </div>
 
-✅ **Creator of the [Unicorns' Ecosystem](https://brix.consulting/services/unicorns-ecosystem/):** Trusted by **IBM, NS, ZF, and top global PE/VCs** to turn IT from liability into an unstoppable competitive advantage.
+✅ **Creator of the [Unicorns' Ecosystem](https://unicorns-ecosystem.com):** Trusted by **IBM, NS, ZF, and top global PE/VCs** to turn IT from liability into an unstoppable competitive advantage.
 <div align="center">
-  <a href="https://brix.consulting/services/unicorns-ecosystem/">
+  <a href="https://unicorns-ecosystem.com">
     <img src="./imgages/UnicornsEcosystemLogo1.jpeg" alt="The Unicorns' Ecosystem" width="500"/>
   </a>
 </div>
