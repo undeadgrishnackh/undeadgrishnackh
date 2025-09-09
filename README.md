@@ -12,10 +12,10 @@ _I help VC/PE funds, CEOs, and CTOs evolve organizations from mediocracy to_ **e
 ---
 
 ### What I do (for Boards, PE/VC, CEOs & CTOs)
-- **BOKaRy (Behavioral-OKR)** — governance that links *vision → behaviors → delivery* for **board-level ROI clarity**.  
+- 🔭 **BOKaRy (Behavioral-OKR)** — governance that links *vision → behaviors → delivery* for **board-level ROI clarity**.  
   Now evolving into a **productized governance toolkit** for CFOs and boards, reducing advisory dependency and enabling scale.  
-- **Unicorns’ Ecosystem™** — the antidote to IT mediocracy; predictable, human-centric org evolution. Where purpose, customer centricity, and technical excellence can **double profit with 20% fewer headcount**.  
-- **SW Craftsmanship Dojo®** — behavior-engineered continuous active learning (100k+ devs), turning average teams into elite performers.  
+- 🦄 **Unicorns’ Ecosystem™** — the antidote to IT mediocracy; predictable, human-centric org evolution. Where purpose, customer centricity, and technical excellence can **double profit with 20% fewer headcount**.  
+- 🥋 **SW Craftsmanship Dojo®** — behavior-engineered continuous active learning (100k+ devs), turning average teams into elite performers.  
   Forget an army of dev teams: **one team of crafters + the right AI tools will outperform the old army**.  
 
 ---
@@ -31,11 +31,14 @@ _I help VC/PE funds, CEOs, and CTOs evolve organizations from mediocracy to_ **e
 ---
 
 ### Connect
-- 🌐 **BriX Consulting**: https://brix.consulting  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/michelebrissoni
+- 🌐 **BriX Consulting**: https://brix.consulting
+- 🔭 **BOKaRy**: https://bokary.dev  
 - 🥋 **SW Craftsmanship Dojo®**: https://swcraftsmanshipdojo.com  
 - 🦄 **Unicorns’ Ecosystem™**: https://unicorns-ecosystem.com  
-- 📈 **BOKaRy**: https://bokary.dev  
-- 🔥 **Forge of Unicorns** (Podcast/Newsletter): https://go.brix.consulting/ForgeOfUnicorns  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/michelebrissoni  
+- 📰 **Forge 🔥 of Unicorns** (Newsletter): https://go.brix.consulting/ForgeOfUnicorns  
+- 📺 **Forge 🔥 of Unicorns** (Channel): https://go.brix.consulting/YouTube
+- 🎙️ **Forge 🔥 of Unicorns** (Podcast): https://go.brix.consulting/Spotify
+
 
 > **Stop transforming. Start evolving.**  
