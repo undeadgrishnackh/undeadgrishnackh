@@ -4,6 +4,8 @@
 From 🏎️ Ferrari F1 (Schumacher era) to boardrooms:  
 _I help VC/PE funds, CEOs, and CTOs evolve organizations from mediocracy to_ **elite performance**. 🥇  
 
+> If you’re a board, investor, or CTO: reach out for a 30-min free-call.
+> 
 👉 📅 [Book a 30-min ROI Clarity Call](https://calendar.app.google/PcALgpkXUP63dwaE8)  
 ---
 
@@ -35,4 +37,3 @@ _I help VC/PE funds, CEOs, and CTOs evolve organizations from mediocracy to_ **e
 - 💼 **LinkedIn**: https://www.linkedin.com/in/michelebrissoni  
 
 > **Stop transforming. Start evolving.**  
-> If you’re a board, investor, or CTO: reach out for a 20-min ROI clarity call.
