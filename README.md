@@ -1,4 +1,4 @@
-# Michele Brissoni — Builder of nWave.ai | Tech Advisor & CTO
+# Michele Brissoni — Builder of nWave.ai | Tech Advisor & Chief AI Officer
 
 **30+ years from F1 pit lanes to AI-augmented software delivery.**
 I build frameworks that turn the way teams write software from chaotic into elite.
