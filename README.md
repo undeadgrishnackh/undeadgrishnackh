@@ -1,7 +1,6 @@
-# Michele Brissoni — Builder of nWave.ai | Tech Advisor & Chief AI Officer
+# Michele Brissoni — Creator nWave.ai | AI Engineer | Harness expert | Tech lead | DevOps & Agile Master
 
 **30+ years from F1 pit lanes to AI-augmented software delivery.**
-I build frameworks that turn the way teams write software from chaotic into elite.
 
 My journey started reverse-engineering what made Schumacher-era Ferrari's engineering culture unreplicable and asking: 
 > *what if we could engineer that same precision into software teams?*
@@ -12,7 +11,7 @@ My journey started reverse-engineering what made Schumacher-era Ferrari's engine
 
 3️⃣ It became the [Unicorns' Ecosystem™](https://unicorns-ecosystem.com), where purpose, customer centricity, and technical excellence converge.
 
-👉 And now, after seven years of R&D, it's become **nWave**.
+👉 And **NOW**, after seven years of R&D, it's become **nWave**. 👇
 
 ---
 
@@ -29,7 +28,7 @@ The core insight: AI is a mirror. It amplifies whatever patterns already exist �
 - **Double-loop TDD** — modern software engineering quality at every layer
 - **EU AI Act compliance** built in, not bolted on
 
-👉 **[github.com/nWave-ai](https://github.com/nWave-ai)** — explore the framework
+👉 **[github.com/nWave-ai](https://github.com/nWave-ai)** — explore the framework and the new Software Factory where our harness engineers will shape it to your custom SDLC.
 
 ---
 
@@ -43,18 +42,6 @@ ONLY four questions. Five minutes. **One score** that reveals the distance betwe
 
 👉 **[source on GitHub](https://github.com/sw-craftsmanship-dojo/sw-ai-readiness-assessment)** — read the research, fork it, contribute
 
----
-
-### Where this has been tested
-
-The principles behind these frameworks were forged in real, large-scale engagements:
-
-- **IBM**: OKR governance + DORA metrics as PwC-validated indicators; enabled CEO-level orchestration across the enterprise
-- **NS Dutch Railways**: Dojo® rolled to 400+ people; 800% lift in socio-technical maturity; large-scale product modernization
-- **KTM**: 35% reduction in production incidents, 30% infrastructure cost savings through modernization + Dojo culture
-- **ZF Transics**: AWS-based IDP and developer portal; reference case presented at PlatformCon 2025
-- **Venture Studios**: our models power advanced software venture studios. Independent evaluations recognize the Ecosystem as a new category of venture execution model
-- **and many startups**: from pre-seeds to series A+
 
 ---
 
